@@ -310,7 +310,7 @@ header {
 .my-services{
     background: var(--clr-dark);
     background-position: center;
-    background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)), url(./images/christopher-gower-m_HRfLhgABo-unsplash@2x.png);
+    background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)), url(./christopher-gower-m_HRfLhgABo-unsplash@2x.png);
     background-size: cover;
     color: var(--clr-light);
     text-align: center;
