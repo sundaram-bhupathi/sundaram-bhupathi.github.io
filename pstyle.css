@@ -310,7 +310,7 @@ header {
 .my-services{
     background: var(--clr-dark);
     background-position: center;
-    background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)), url(./services\ bgi.png);
+    background-image: url(./services\ bgi.png);
     background-size: cover;
     color: var(--clr-light);
     text-align: center;
