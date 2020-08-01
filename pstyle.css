@@ -393,7 +393,7 @@ header {
         left: -1em;
         width: calc(100% + 2em);
         padding-left: 1em;
-        padding-right: calc(200px + 4em);
+        padding-right: calc(230px + 4em);
     }
     .about-me__img{
         grid-area: img;
