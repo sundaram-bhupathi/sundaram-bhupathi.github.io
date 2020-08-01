@@ -374,7 +374,7 @@ header {
 
     .about-me{
         display: grid;
-        grid-template-columns: 1fr 200px;
+        grid-template-columns: 1fr 230px;
         grid-template-areas: 
             "title img"
             "subtitle img"
